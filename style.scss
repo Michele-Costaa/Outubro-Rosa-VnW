@@ -122,8 +122,6 @@ footer {
     }
 }
 
-/* Estilos base já aplicados ao site */
-
 /* Extra Small (xs) : Smartphone (portrait) */
 @media (max-width: 575px) {
     header {
@@ -231,29 +229,3 @@ footer {
         }
     }
 }
-
-/* Extra Large (xl) : Desktop */
-@media (min-width: 1200px) {
-    /* Pode manter as mesmas regras ou ajustar se necessário para telas muito grandes */
-}
-
-
-// /* Extra Small (xs) : Smartphone (portrait) */
-// @media (min-width: 0px) {
-
-// }
-
-// /* Samall (sm) : Smartphone (landscape) */
-// @media (min-width: 576px) {
-
-// }
-
-// /* Medium (md) : Tablet */
-// @media (min-width: 768px) {
-
-// }
-
-// /* Extra Large (xl) : Desktop */
-// @media (min-width: 1200px) {
-
-// }
